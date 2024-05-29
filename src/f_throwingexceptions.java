@@ -8,6 +8,7 @@ class Amount{
     }
 
     public void add(Amount x){
+
         if (this.currency != x.currency)
             throw new RuntimeException("Currencies wont match");
         this.amount = this.amount + x.amount;
