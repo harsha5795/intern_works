@@ -8,6 +8,8 @@ public class LooseTightCouplingJvmApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LooseTightCouplingJvmApplication.class, args);
+		System.out.println("Hello modified");
+		System.out.println("from the ram branch");
 	}
 
 }
