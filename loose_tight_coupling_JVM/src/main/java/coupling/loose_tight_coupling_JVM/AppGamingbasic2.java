@@ -11,6 +11,5 @@ public class AppGamingbasic2 {
         //Game is dependency of GameRunner
         gamerunner.run();
 
-
     }
 }
