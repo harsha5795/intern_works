@@ -18,5 +18,6 @@ public class AppGamingbasic2 {
         System.out.println("hi harsha");
         System.out.println("hi buddi");
 
+
     }
 }
