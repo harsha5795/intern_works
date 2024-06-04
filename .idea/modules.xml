@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/loose_tight_coupling_JVM.iml" filepath="$PROJECT_DIR$/.idea/loose_tight_coupling_JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/d_loose_tight_coupling_JVM.iml" filepath="$PROJECT_DIR$/.idea/d_loose_tight_coupling_JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loose_tight_coupling_JVM/loose_tight_coupling_JVM.iml" filepath="$PROJECT_DIR$/loose_tight_coupling_JVM/loose_tight_coupling_JVM.iml" />
     </modules>
   </component>
 </project>
