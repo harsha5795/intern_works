@@ -12,6 +12,7 @@ public class AppGamingbasic2 {
         var game = new MarioGame();    //object creation
         var gamerunner = new GameRunner(game); //object creation + wiring dependencies
         //Game is dependency of GameRunner
+
         gamerunner.run();
         System.out.println("hello world");
 
