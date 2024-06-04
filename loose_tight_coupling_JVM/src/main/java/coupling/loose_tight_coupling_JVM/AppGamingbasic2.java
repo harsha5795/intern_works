@@ -13,6 +13,7 @@ public class AppGamingbasic2 {
         var gamerunner = new GameRunner(game); //object creation + wiring dependencies
         //Game is dependency of GameRunner
         gamerunner.run();
+        System.out.println("hello world");
 
     }
 }
